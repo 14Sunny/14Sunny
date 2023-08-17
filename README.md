@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @14Sunny
-- 👀 I’m interested in Android Development using React Native(JAVA) 
+- 👀 I’m interested in Android Development using Native Language (JAVA) 
 - 🌱 I’m currently learning Android Development 
 - 📫 How to reach me sunny14031@gmail.com
 
